@@ -22,8 +22,8 @@
 .formulario-login {
 	width: 30%;
 	margin: auto;
-	padding-top: 20%;
-	padding-bottom: 20%;
+	padding-top: 18%;
+	padding-bottom: 18%;
 }
 
 .btn {
@@ -45,4 +45,8 @@
 }
 
 .form-group label {
+}
+
+footer h6 {
+	padding-top: 15px;
 }
